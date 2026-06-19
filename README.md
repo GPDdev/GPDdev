@@ -5,12 +5,6 @@
 **Future Robots @ Guohao College, Tongji University**  
 **工程智能 | Engineering Intelligence**
 
-[![Tongji](https://img.shields.io/badge/Tongji-University-005596?style=flat-square)](https://www.tongji.edu.cn/)
-[![Guohao College](https://img.shields.io/badge/Guohao-College-1f6feb?style=flat-square)](https://ghc.tongji.edu.cn/)
-[![Focus](https://img.shields.io/badge/Focus-Engineering_Intelligence-success?style=flat-square)](#focus)
-[![Email](https://img.shields.io/badge/Email-hejiale.ai%40outlook.com-orange?style=flat-square&logo=gmail)](mailto:hejiale.ai@outlook.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Gunpowder-git&label=Profile%20Views&color=0e75b6&style=flat-square)
-
 > 料峭春风吹酒醒，微冷，山头斜照却相迎。  
 > Drunken, I’m sobered by the vernal wind shrill  
 > And rather chill.  
