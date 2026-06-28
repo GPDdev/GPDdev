@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=560&lines=Welcome+to+the+homepage+of;Engineering+Intelligence;" alt="Typing SVG" /></a>
 # 何嘉乐 He Jiale
-**Future Robots @ Guohao College, Tongji University**  
+**Future Robots Program @ Guohao College, Tongji University**  
 **工程智能 | Engineering Intelligence**
 
 [![Tongji](https://img.shields.io/badge/Tongji-University-005596?style=flat-square)](https://www.tongji.edu.cn/)
@@ -22,7 +22,7 @@
 
 ## About / 关于我
 
-我目前就读于**同济大学国豪书院未来技术班**，关注**工程智能**：将计算机视觉、时序数据分析、仿真建模与可部署系统结合，用 AI 解决真实工程场景中的识别、预测与决策问题。
+我目前就读于**同济大学国豪书院未来技术班（机器人方向）**，关注**工程智能**：将计算机视觉、多模态分析、仿真建模与可部署系统结合，用 AI 解决真实工程场景中的识别、预测与决策问题。
 
 I am a Future Technology student at **Guohao College, Tongji University**. My work focuses on **Engineering Intelligence**: integrating computer vision, time-series analysis, simulation, and deployable systems for recognition, prediction, and decision-making in real engineering contexts.
 
