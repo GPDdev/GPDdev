@@ -87,7 +87,7 @@ I am building a stronger foundation in mathematics, physics, computer systems, a
   <a href="https://space.bilibili.com/535607835"><img src="https://img.shields.io/badge/Bilibili-535607835-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
   <a href="https://x.com/GunpowderTwi"><img src="https://img.shields.io/badge/X-GunpowderTwi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.reddit.com/u/Gunpowderedd"><img src="https://img.shields.io/badge/Reddit-Gunpowderedd-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://www.instagram.com/gunpowderinst/"><img src="https://img.shields.io/badge/Instagram-gunpowderinst-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/gpdinst/"><img src="https://img.shields.io/badge/Instagram-gpdinst-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@Gunpowderytb"><img src="https://img.shields.io/badge/YouTube-Gunpowderytb-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.facebook.com/profile.php?id=61579197617564"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.luogu.com.cn/user/316855"><img src="https://img.shields.io/badge/Luogu-316855-0E90D2?style=for-the-badge" alt="Luogu" /></a>
