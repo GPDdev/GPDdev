@@ -20,7 +20,7 @@
 
 </div>
 
-个人主页：https://hachile.org/gunpowder/
+个人科研主页：https://research.hachile.org
 
 ## About / 关于我
 
