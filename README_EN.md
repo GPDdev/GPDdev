@@ -13,7 +13,7 @@
  
 > Drunken, I’m sobered by the vernal wind shrill  
 > And rather chill.  
-> In front I see the slanting sun atop the hill
+> In front I see the slanting sun atop the hill.
 
 <br/>
 
@@ -110,7 +110,6 @@ I also operate more than one hundred online student communities reaching several
 
 <div align="center">
 
-> 忽反顾以游目兮，将往观乎四荒。佩缤纷其繁饰兮，芳菲菲其弥章。
 > Suddenly I look back and let my eyes roam;
 > I would set out to survey the farthest reaches.
 > My ornaments are richly varied and bright;
