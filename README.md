@@ -14,9 +14,9 @@
 个人主页：https://home.hachile.org
 
 > 料峭春风吹酒醒，微冷，山头斜照却相迎。  
-> Drunken, I’m sobered by the vernal wind shrill  
-> And rather chill.  
-> In front I see the slanting sun atop the hill
+> Drunken, I’m sobered by the vernal wind shrill
+> And rather chill.
+> In front I see the slanting sun atop the hill;
 
 <br/>
 
