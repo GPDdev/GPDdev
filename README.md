@@ -16,9 +16,12 @@
 
 <br/>
 
-</div>
 
 个人主页：https://home.hachile.org
+
+**[中文](README.md) | [English](README_EN.md)**
+
+</div>
 
 ## 个人简介
 
