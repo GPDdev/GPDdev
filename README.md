@@ -1,8 +1,11 @@
 <div align="center">
 
-**[中文](README.md) | [English](README_EN.md)**
+
 
 # 何嘉乐
+
+**[中文](README.md) | [English](README_EN.md)**
+
 **同济大学国豪书院未来技术班（机器人方向）25级本科生**  
 **研究方向：具身智能、世界模型**
 
