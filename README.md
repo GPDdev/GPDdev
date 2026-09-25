@@ -2,7 +2,6 @@
 
 **[中文](README.md) | [English](README_EN.md)**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=560&lines=Welcome+to+the+homepage+of;Embodied+Intelligence+World+Model;" alt="Typing SVG" /></a>
 # 何嘉乐
 **同济大学国豪书院未来技术班（机器人方向）25级本科生**  
 **研究方向：具身智能、世界模型**
@@ -11,15 +10,14 @@
 [![Email](https://img.shields.io/badge/Email-hejiale.ai%40outlook.com-orange?style=flat-square&logo=gmail)](mailto:hejiale.ai@outlook.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Gunpowder-git&label=Profile%20Views&color=0e75b6&style=flat-square)
 
+个人主页：https://home.hachile.org
+
 > 料峭春风吹酒醒，微冷，山头斜照却相迎。  
 > Drunken, I’m sobered by the vernal wind shrill  
 > And rather chill.  
 > In front I see the slanting sun atop the hill
 
 <br/>
-
-
-个人主页：https://home.hachile.org
 
 </div>
 
