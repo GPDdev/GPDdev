@@ -10,11 +10,10 @@
 [![Wechat](https://img.shields.io/badge/Wechat-1213956808-success?style=flat-square)](#contact)
 [![Email](https://img.shields.io/badge/Email-hejiale.ai%40outlook.com-orange?style=flat-square\&logo=gmail)](mailto:hejiale.ai@outlook.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=GPDdev\&label=Profile%20Views\&color=0e75b6\&style=flat-square)
-
-> 料峭春风吹酒醒，微冷，山头斜照却相迎。
-> Drunken, I’m sobered by the vernal wind,
-> A little chilled.
-> Ahead, the slanting sun meets me atop the hill.
+ 
+> Drunken, I’m sobered by the vernal wind shrill  
+> And rather chill.  
+> In front I see the slanting sun atop the hill
 
 <br/>
 
