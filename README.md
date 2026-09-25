@@ -1,5 +1,7 @@
 <div align="center">
 
+**[中文](README.md) | [English](README_EN.md)**
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=560&lines=Welcome+to+the+homepage+of;Embodied+Intelligence+World+Model;" alt="Typing SVG" /></a>
 # 何嘉乐
 **同济大学国豪书院未来技术班（机器人方向）25级本科生**  
@@ -18,8 +20,6 @@
 
 
 个人主页：https://home.hachile.org
-
-**[中文](README.md) | [English](README_EN.md)**
 
 </div>
 
