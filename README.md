@@ -118,7 +118,7 @@
 
 <div align="center">
 
-> 忽反顾以游目兮,将往观乎四荒。佩缤纷其繁饰兮,芳菲菲其弥章。  
+> 忽反顾以游目兮，将往观乎四荒。佩缤纷其繁饰兮，芳菲菲其弥章。  
 > Suddenly I look back and rove my roving eye;  
 > I would go to take a view of the far-off sky.  
 > My ornate adornments are rich and bright;  
