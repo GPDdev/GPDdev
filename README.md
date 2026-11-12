@@ -1,6 +1,6 @@
 <div align="center">
 
-# 何嘉乐
+# 
 
 **[中文](README.md) | [English](README_EN.md)**
 
