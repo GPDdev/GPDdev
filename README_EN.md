@@ -21,6 +21,8 @@
 
 Personal website: [home.hachile.org](https://home.hachile.org)
 
+Quickly get to know my GitHub: https://gpddev.forkfolio.dev/
+
 ## About Me
 
 I am an undergraduate student in the **Future Technology Program (Robotics Track)** at **Guohao College, Tongji University**. I am interested in turning AI methods into real engineering systems—from problem definition and algorithm prototyping to simulation, system integration, and practical deployment.
